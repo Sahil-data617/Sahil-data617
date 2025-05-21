@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Data Analyst at Voitics Technologies (OPC) Pvt Ltd**
 
-- 💬 Ask me about **Python, MySQL, Excel,PowerBI,o**
+- 💬 Ask me about **Python, MySQL, Excel,PowerBI,**
 
 - 📫 How to reach me **jaatsahil9632@gmail.com**
 
