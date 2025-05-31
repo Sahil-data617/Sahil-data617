@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'M SAHIL</h1>
 <h3 align="center">A Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src=https://cdn.iconscout.com/lottie/premium/thumb/male-data-analyst-9751930-7980378.gif
+<img align="right" alt="Coding" width="400" src=https://cdn.iconscout.com/lottie/premium/thumb/man-doing-data-analysis-4916288-4082426.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apaulgithub&label=Profile%20views&color=0e75b6&style=flat" alt="apaulgithub" /> </p>
 
